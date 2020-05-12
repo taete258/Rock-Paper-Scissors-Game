@@ -1,0 +1,10 @@
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe.config
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.exe
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\bin\Debug\Rock Paper Scissors Game.pdb
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csprojAssemblyReference.cache
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.Form1.resources
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock_Paper_Scissors_Game.Properties.Resources.resources
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.GenerateResource.cache
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.exe
+C:\Users\tae_t\source\repos\Rock Paper Scissors Game\Rock Paper Scissors Game\obj\Debug\Rock Paper Scissors Game.pdb
